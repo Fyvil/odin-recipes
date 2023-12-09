@@ -1,0 +1,34 @@
+html {
+    background-color: #C4DFDF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    background-color: #D2E9E9;
+    color: #A68DAD;
+    font-size: 30px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 700px;
+}
+
+.recipes li  {
+    color: #A68DAD;
+}
+
+.text {
+    color: #85586F;
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #85586F;
+    font-size: 35px;
+}
